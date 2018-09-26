@@ -54,7 +54,7 @@ npm test
 - `updated`：任何数据的更新，如果要做统一的业务逻辑处理
 - `watch`：监听具体数据变化，并做相应的处理、
 
-## 生命周期图
+## 生命周期图 如图所示
 
 ![image](https://github.com/xue1992115/vue-cycle/raw/master/assets/cycle.png)
 

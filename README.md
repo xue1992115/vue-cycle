@@ -56,6 +56,6 @@ npm test
 
 ## 生命周期图 如图所示
 
-![image](https://github.com/xue1992115/vue-cycle/raw/master/assets/cycle.png)
+![image](https://github.com/xue1992115/vue-cycle/raw/master/src/assets/cycle.png)
 
 https://github.com/用户名/repository仓库名/raw/分支名master/图片文件夹名称/***.png

@@ -55,3 +55,7 @@ npm test
 - `watch`：监听具体数据变化，并做相应的处理、
 
 ## 生命周期图
+
+![image](https://github.com/xue1992115/vue-cycle/raw/master/assets/cycle.png)
+
+https://github.com/用户名/repository仓库名/raw/分支名master/图片文件夹名称/***.png
